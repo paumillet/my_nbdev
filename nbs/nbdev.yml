@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "my_nbdev"
+  site-url: "https://paumillet.github.io/my_nbdev"
+  description: "My nbdev hello world"
+  repo-branch: main
+  repo-url: "https://github.com/paumillet/my_nbdev"
